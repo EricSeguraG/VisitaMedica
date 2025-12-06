@@ -1,6 +1,6 @@
 {
     "java.project.sourcePaths": [
-        "."
+        "src"
     ],
     "java.project.referencedLibraries": [
         "c:\\Users\\usuario\\Documents\\GitHub\\PROGRAMACION SERVEIS\\lib\\jackson-annotations-2.16.1.jar",
@@ -23,5 +23,6 @@
             "overrideName": true
         }
     },
-    "terminal.integrated.defaultProfile.windows": "PowerShell"
+    "terminal.integrated.defaultProfile.windows": "PowerShell",
+    "java.debug.settings.onBuildFailureProceed": true
 }
