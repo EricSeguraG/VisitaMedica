@@ -1,0 +1,27 @@
+{
+    "java.project.sourcePaths": [
+        "."
+    ],
+    "java.project.referencedLibraries": [
+        "c:\\Users\\usuario\\Documents\\GitHub\\PROGRAMACION SERVEIS\\lib\\jackson-annotations-2.16.1.jar",
+        "c:\\Users\\usuario\\Documents\\GitHub\\PROGRAMACION SERVEIS\\lib\\jackson-core-2.16.1.jar",
+        "c:\\Users\\usuario\\Documents\\GitHub\\PROGRAMACION SERVEIS\\lib\\jackson-databind-2.16.1.jar",
+        "c:\\Users\\usuario\\Documents\\GitHub\\PROGRAMACION SERVEIS\\lib\\jackson-datatype-jsr310-2.16.1.jar",
+       
+    ],
+    
+    "terminal.integrated.profiles.windows": {
+        "PowerShell": {
+            "source": "PowerShell",
+            "icon": "terminal-powershell",
+            "args": [
+                // Executa chcp 65001 (Code Page 65001 = UTF-8)
+                "-NoExit",
+                "/c",
+                "chcp 65001"
+            ],
+            "overrideName": true
+        }
+    },
+    "terminal.integrated.defaultProfile.windows": "PowerShell"
+}
